@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 20 14">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Hamburger_icon);
+      }
+
+      .cls-2 {
+        fill: #666;
+      }
+    </style>
+    <clipPath id="clip-Hamburger_icon">
+      <rect width="20" height="14"/>
+    </clipPath>
+  </defs>
+  <g id="Hamburger_icon" data-name="Hamburger icon" class="cls-1">
+    <g id="menu-button" transform="translate(1 -75.5)">
+      <g id="menu" transform="translate(0 76.5)">
+        <path id="Path_565" data-name="Path 565" class="cls-2" d="M0,88.5H18v-2H0Zm0-5H18v-2H0Zm0-7v2H18v-2Z" transform="translate(0 -76.5)"/>
+      </g>
+    </g>
+  </g>
+</svg>
